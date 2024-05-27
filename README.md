@@ -1,43 +1,90 @@
 # prompts-for-article-generate-by-ia
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
 Projeto artigo técnico gerado por I.A.s
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-ChatGPT - para título e conteúdo
-Lexica.art - para gerar imagens
-PowerPoint - Para formatação de banners e Layouts
 
-Engenharia de Prompt: O Futuro da Interação Humana com as Inteligências Artificiais
+## 💻 Tecnologias utilizadas no projeto
 
-O que é engenharia de prompt?
-Engenharia de prompt é a arte de criar comandos claros e eficazes para sistemas de inteligência artificial (IA). Pense nisso como falar com um assistente virtual, onde você precisa ser específico e claro para obter as melhores respostas. É sobre entender como formular perguntas e instruções para que a IA entenda e responda da maneira mais útil possível.
-
-De maneira prática, olhe a diferença entre esses dois prompts para uma mesma questão usando ChatGPT:
- 
+- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
+- [Lexica.art](https://lexica.art/) - para gerar imagen
 
 
 
 
 
-Agora usando um prompt mais elaborado:
- 
-
- 
-
-
-Quem sabe usar prompts eficazes pode acessar informações e soluções mais rapidamente, fazer um prompt mais elaborado gera respostas mais assertivas.
-
-Como saber engenharia de prompt te bota na frente de alguém que não sabe
-O futuro, que já é presente, cada vez mais inteligências artificiais estarão presentes, e dominar a engenharia de prompt é como ter um superpoder no mundo digital. 
-
-Como pessoas que não trabalham na área de Tecnologia podem se beneficiar da engenharia de prompt 
-Mesmo quem não é da área de tecnologia pode se beneficiar da engenharia de prompt. Imagine que você precise escrever um texto, criar um artigo, escrever um livro, participar ou se preparar para uma entrevista, enfim, praticamente qualquer coisa. Você pode se beneficiar da ajuda de uma inteligência artificial.
 
 
 
-Conclusão
-A engenharia de prompt é uma habilidade valiosa que vai além da tecnologia. Ela permite que qualquer pessoa, tire o máximo proveito das ferramentas de IA. Com essa habilidade, você pode trabalhar de maneira mais inteligente e eficiente, ficando sempre um passo à frente na sua área de atuação.
+-------
 
-No entanto, assim como qualquer ferramenta de auxílio, é importante usar a IA com cuidado. Não se pode tomar como verdade tudo que se lê ou vê. A inteligência artificial, como o ChatGPT, tem suas limitações. Por exemplo, ele não possui informações atualizadas sobre eventos recentes e pode apresentar "alucinações", criando respostas baseadas em dados incompletos ou incorretos.
+<p align="center">
+  <img 
+    src=".github/assets/preview.png"
+    width="400"  
+  />
+</p>
 
-Se você utilizar a IA em uma área que já domina, a probabilidade de reconhecer e corrigir essas "alucinações" é maior. Portanto, use com moderação e bom senso!
+
+
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+
+<a href="https://web.dio.me/articles/engenharia-de-prompt-o-futuro-da-interacao-humana-com-as-inteligencias-artificiais?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
+- [Lexica.art](https://lexica.art/) - para gerar imagens
+
+## 📄 Prompts e ferramentas
+
+ChatGPT: 
+ - Crie 10 headlines para nomes de artigos sobre o assunto Engenharia de Promtp                                                                                                                                                                                                   
+ - Comporte-se como um escritor de artigo de tecnologia.| 
+
+- {REGRAS} 
+ - No máximo 7 linhas por {BLOCO} de explicação
+ - Explique de maneira informal para um adulto de 20 anos |
+
+ - No máximo 7 linhas por {BLOCO} de explicação
+ - Explique de maneira informal para um adulto de 20 anos
+
+
+- {BLOCO}
+ O que é engenharia de prompt?
+ Como a engenharia de prompt tem ajudado(principalmente desenvolvedores e pessoas da área de tecnologia) a acelerarem sua produtividade
+ Como saber engenharia de prompt te bota na frente de alguém que não sabe
+ Como pessoas que não trabalham na área de Tecnologia podem se beneficiar da engenharia de prompt(citar a área de Advocacia)
+ Conclusão
+
+Lexica.art：
+
+- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+
+• Interação Humano x Inteligência Artivicial
+
+
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+
+## 👨‍💻 Expert
+
+<p>
+    <p>Leonardo Zell<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/leonardozell">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/leonardo-aires-de-oliveira-87236816b/">LinkedIn</a>
+
+   
+
+</p>
+<br/><br/>
+<p>
+
+---
+
+
